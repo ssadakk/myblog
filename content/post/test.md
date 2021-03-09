@@ -9,7 +9,8 @@ tags:
 - tag2
 keywords:
 - tech
-thumbnailImage: //example.com/image.jpg
+thumbnailImage:
 ---
 
+테스트 MD, 한글이 잘 써지는지
 <!--more-->
