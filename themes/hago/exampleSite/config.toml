@@ -1,0 +1,22 @@
+baseURL = "https://www.example.com/"
+languageCode = "en-US"
+title = "YOUR_TITLE"
+theme = "hago"
+
+DefaultContentLanguage = "en"
+metaDataFormat = "yaml"
+disqusShortname = "YOUR_DISQUS_SHORT_NAME"
+googleAnalytics = "UA-XXXXXXXXX-X"
+paginate = 4
+
+
+[Params]
+  description = "DESCRIPTION"
+  subtitle = "YOUR_SUB_TITLE"
+  logo = "/images/logo.png"
+  favicon = "/favicon.ico"
+  comments = true
+
+[Author]
+  name = "YOUR_NAME"
+  website = "https://www.example.com/"
