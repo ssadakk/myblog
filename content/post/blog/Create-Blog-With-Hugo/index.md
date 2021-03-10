@@ -96,3 +96,18 @@ repo push
 - 이렇게 하면 차례대로 public 폴더 파일을 push 하고 프로젝트 전체를 push 하게됨
 
 이렇게 하면 [githubid.github.io](http://githubid.github.io) 에 조금 지나서 들어가보면 내가만든 페이지가 보일것!
+
+## 7. 다른 컴퓨터에 환경 설정
+```
+git clone https://github.com/[github-ID]/blog.git
+```
+
+submodule 재구성 (re init submodule)
+```
+git submodule update --init --recursive
+```
+
+submodule 갱신하기
+```
+git submodule update --recursive --remote
+```
