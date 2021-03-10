@@ -5,8 +5,8 @@ theme = "hago"
 
 DefaultContentLanguage = "en"
 metaDataFormat = "yaml"
-disqusShortname = "My dev space"
-googleAnalytics = "UA-XXXXXXXXX-X"
+disqusShortname = "author"
+googleAnalytics = "G-P1LKR3P67X"
 paginate = 4
 
 
