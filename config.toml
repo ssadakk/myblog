@@ -5,7 +5,7 @@ theme = "hago"
 
 DefaultContentLanguage = "en"
 metaDataFormat = "yaml"
-disqusShortname = "author"
+disqusShortname = "myblog-yamhhn4gzh"
 googleAnalytics = "G-P1LKR3P67X"
 paginate = 4
 
