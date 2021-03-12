@@ -9,7 +9,7 @@ paginate: 7
 enableEmoji: true
 PygmentsCodeFences: false
 googleAnalytics: "G-P1LKR3P67X"      # UA-XXXXXXXX-X 
-disqusShortname: "myblog-yamhhn4gzh"
+# disqusShortname: "myblog-yamhhn4gzh" #Look below
 permalinks:
   posts: /:year/:month/:filename/
 
@@ -140,9 +140,9 @@ params:
   #   mobile_sites: weibo,qq,qzone # 移动端显示的分享图标
 
   # Comment
-  # comment:
-  #   type:  # type disqus/gitalk/valine 启用哪种评论系统
-  #   disqus: your_disqus_name # enter disqus shortname here
+  comment:
+    type: disqus # type disqus/gitalk/valine 启用哪种评论系统
+    disqus: "myblog-yamhhn4gzh" # enter disqus shortname here
   #   gitalk: # gitalk. https://gitalk.github.io/
   #     owner: #必须. GitHub repository 所有者，可以是个人或者组织。
   #     admin: #必须. GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。
