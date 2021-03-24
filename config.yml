@@ -111,7 +111,7 @@ params:
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
     author: HM J
-    author_title: Nobody
+    author_title: 내가 보려고 남기는 기록, 누군가의 삽질이 줄어든다면 그것또한 좋고
     author_description: Someone likes to development
     location: Seoul, Korea
     follow: https://github.com/ssadakk
