@@ -3,10 +3,10 @@ title: "Live Data"
 date: 2021-03-16T23:22:56+09:00
 description: ""
 categories: [
-
+"android"
 ]
 tags: [
-    
+    "android", "AAC"
 ]
 type: "post"
 draft: false

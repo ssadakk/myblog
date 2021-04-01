@@ -6,7 +6,7 @@ categories: [
     "android"
 ]
 tags: [
-    "android", "databinding"
+    "android", "databinding", "AAC"
 ]
 type: "post"
 draft: false
