@@ -9,7 +9,7 @@ tags: [
     "android", "AAC"
 ]
 type: "post"
-draft: true
+draft: false
 ---
 ViewModel 클래스는 Lifecycle을 고려하여 UI 관련 데이터를 저장하고 관리 할 수 있도록 설계되었다. 때문에 화면 회전과 같이 구성이 변경될 때도 데이터를 유지할 수 있다.
 
