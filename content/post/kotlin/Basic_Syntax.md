@@ -9,7 +9,7 @@ tags: [
     "Kotlin"
 ]
 type: "post"
-draft: true
+draft: false
 ---
 안드로이드 개발을 위한 기본적인 Kotlin 문법 정리.  
 기본적인 언어의 문법은 알고 있다는 가정 하에, Java와 다른 부분 위주로 정리
@@ -74,7 +74,7 @@ var b = when(score){
 	else -> 3 // score 에 따라 값을 리턴하여 b 에 할당, else 없으면 에러
 }
 ```
-> ####Expression & Statement
+#### Expression & Statement
 > 어떤 값을 생성하는것 = Expression
 > 예를 들어 위에 when 을 이용해 값을 할당하는 경우에는 Expression, 아무것도 하지 않은 경우는 Statement
 > Kotlin에서는 아무것도 하지 않는 경우도 Unit을 리턴하기 때문에 모든 함수는 기본적으로 Expression
@@ -131,9 +131,6 @@ while(index < 10) {
 
 ```
 
-
-
-   
 
 
 
